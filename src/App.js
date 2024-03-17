@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Mainpage from './components/pages/MainPage2';
+import Mainpage from './components/pages/Mainpage';
 import Signup from './components/pages/Signup';
 
 const App = () => {

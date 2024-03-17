@@ -42,7 +42,7 @@ To run the project locally, follow these steps:
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Google Keep Clone ➡️ [**here**](https://your-google-keep-clone.herokuapp.com)
+Check out the live demo of the Google Keep Clone ➡️ [**here**](https://darshananandu.github.io/Bigil-Keep-FE/)
 
 ## 🛠️ Technologies Used
 
